@@ -41,4 +41,7 @@ Run the Script: Execute the provided .sql file to generate the unified view.
 Visualization: (Optional) Connect this query to Power BI or Tableau to calculate key metrics like ADR (Average Daily Rate) and Total Revenue.
 
 Author
-Your Name - www.linkedin.com/in/adikesavareddy-katterapalli
+Author: Adikesavareddy Katterapalli  
+GitHub: https://github.com/Adikesavareddy-git  
+LinkedIn: https://www.linkedin.com/in/adikesavareddy-katterapalli
+
